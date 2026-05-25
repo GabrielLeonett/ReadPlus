@@ -1,0 +1,11 @@
+## Carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+
+## Carpetas de compilación de .NET
+bin/
+obj/
+
+## Archivos temporales del Previewer de Avalonia
+.avalonia/
